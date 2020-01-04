@@ -6,6 +6,8 @@ It is a merged version of two existing fonts.
 
 The merge was done in https://www.calligraphr.com/, you just have to upload the templates.
 
+[Download here](https://github.com/AssisrMatheus/font-souls/releases)
+
 ## Title
 
 ![keypress-overlay](./Title/Example.png)
